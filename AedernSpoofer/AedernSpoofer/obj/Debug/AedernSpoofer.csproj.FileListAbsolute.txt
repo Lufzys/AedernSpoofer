@@ -1,0 +1,9 @@
+C:\Users\Furkan\source\repos\AedernSpoofer\AedernSpoofer\bin\Debug\AedernSpoofer.exe.config
+C:\Users\Furkan\source\repos\AedernSpoofer\AedernSpoofer\bin\Debug\AedernSpoofer.exe
+C:\Users\Furkan\source\repos\AedernSpoofer\AedernSpoofer\bin\Debug\AedernSpoofer.pdb
+C:\Users\Furkan\source\repos\AedernSpoofer\AedernSpoofer\obj\Debug\AedernSpoofer.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\AedernSpoofer\AedernSpoofer\obj\Debug\AedernSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\AedernSpoofer\AedernSpoofer\obj\Debug\AedernSpoofer.exe
+C:\Users\Furkan\source\repos\AedernSpoofer\AedernSpoofer\obj\Debug\AedernSpoofer.pdb
+C:\Users\Furkan\source\repos\AedernSpoofer\AedernSpoofer\obj\Debug\AedernSpoofer.Properties.Resources.resources
+C:\Users\Furkan\source\repos\AedernSpoofer\AedernSpoofer\obj\Debug\AedernSpoofer.csproj.GenerateResource.cache
